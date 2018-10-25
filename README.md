@@ -39,7 +39,9 @@ print(solver.foundWords)
 If the dictionary provided the words, the following list would be output:
 
 ```python
-['ASH', 'DILL', 'DISH', 'FILL', 'FIN', 'FINISH', 'FINS', 'HILL', 'ILL', 'KID', 'KILN', 'KIN', 'LID', 'NAIL', 'NASH', 'NIL', 'QUID', 'SAIL', 'SHIN', 'SILL', 'SIN', 'SNAIL']
+['ASH', 'DILL', 'DISH', 'FILL', 'FIN', 'FINISH', 'FINS', 'HILL',
+ 'ILL', 'KID', 'KILN', 'KIN', 'LID', 'NAIL', 'NASH', 'NIL',
+ 'QUID', 'SAIL', 'SHIN', 'SILL', 'SIN', 'SNAIL']
 ```
 
 ## TODO
